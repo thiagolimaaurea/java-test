@@ -1,3 +1,6 @@
 [submodule "java-test-submodule"]
 	path = java-test-submodule
 	url = https://thiagolimaaurea@github.com/thiagolimaaurea/java-test-submodule.git
+[submodule "another-submodule-path"]
+	path = another-submodule-path
+	url = https://thiagolimaaurea@github.com/thiagolimaaurea/java-test-another-submodule.git
